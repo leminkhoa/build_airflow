@@ -1,0 +1,4 @@
+{
+    "AIRFLOW_VAR_FOO": "BAR",
+    "AIRFLOW_VAR_FOO_BAZ": {"hello":"world"}
+}
